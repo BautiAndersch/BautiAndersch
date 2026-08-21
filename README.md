@@ -27,7 +27,7 @@
 ### 🌐 Frontend
 
 * HTML / CSS / JavaScript
-* Angular (básico)
+* Angular
 
 ### 🗄️ Otros
 
